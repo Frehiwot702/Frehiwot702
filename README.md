@@ -50,14 +50,6 @@
 
 ---
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Frehiwot702/Frehiwot702/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📈 Profile Views
 
 <p align="left">
