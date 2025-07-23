@@ -61,13 +61,13 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/frehiwot-tewodros-06503924b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:frehiwot.tewodros112@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send-blueviolet?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://codequestfre.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel" />
   </a>
 </p>
